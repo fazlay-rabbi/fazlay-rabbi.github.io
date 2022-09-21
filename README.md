@@ -1,2 +1,0 @@
-# julkernienakib
-portfolio template
